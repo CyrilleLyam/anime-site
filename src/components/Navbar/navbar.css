@@ -1,0 +1,28 @@
+
+.img{
+    width: 45px;
+    height: 45px;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+    
+}
+.itemList{
+    color: white;
+    margin-right: 10px;
+}
+.iconList{
+    display: flex;
+    list-style: none;
+}
+.icon{
+    color: white;
+    margin-left: 20px;
+    cursor: pointer;
+}
